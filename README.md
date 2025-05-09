@@ -26,3 +26,6 @@ these launches two windows 'Origional Image' and 'Blue->Green'.
 Result: any blue color shown on the original window should converted to green on the Blue->Green window
 
 The result should look like the following:
+
+
+![Screenshot from 2025-05-09 22-12-24](https://github.com/user-attachments/assets/d769ebc4-4e1b-4e6d-80ce-0fc8aa124562)
