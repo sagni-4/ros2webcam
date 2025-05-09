@@ -23,7 +23,7 @@ Finally, launch the files using->ros2 launch webcam_nodes_launch webcam_nodes_la
 
 these launches two windows 'Origional Image' and 'Blue->Green'.
 
-Result: any blue color shown on the original window should converted to green on the Blue->Green window
+Result: any blue color shown on the original window should be converted to a green on the Blue->Green window
 
 The result should look like the following:
 
